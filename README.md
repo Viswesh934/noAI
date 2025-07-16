@@ -24,5 +24,7 @@ A No ai repo for everyday commits
 ## Contributors
 
 <!-- commit scores -->
+- **github-actions[bot]**: 1 commits
+- **gyanavardhana**: 2 commits
 - **Viswesh934**: 5 commits
 <!-- /commit scores -->
