@@ -17,7 +17,7 @@ A No ai repo for everyday commits
 > * A clear **problem statement**
 > * Expected **input and output**
 > * Optional **bonus features** or constraints for extra challenge
-> * Mention which **language(s)** I could try it in (but I’ll pick)
+> * Mention which **language(s)** I could try it in (but I’ll pick).
 
 ---
 
